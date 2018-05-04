@@ -1,0 +1,17 @@
+PODS:
+  - EasyLayout (0.1.0)
+  - PubNub (4.7.4):
+    - PubNub/Core (= 4.7.4)
+  - PubNub/Core (4.7.4)
+
+DEPENDENCIES:
+  - EasyLayout
+  - PubNub
+
+SPEC CHECKSUMS:
+  EasyLayout: 1548f2d42045099100f368dc611d4f6dca428641
+  PubNub: de3a84200472d2fadfc7cf79622444a837a24b42
+
+PODFILE CHECKSUM: 9f563f0a9967310bfde56943cc2802bfb40e36ff
+
+COCOAPODS: 1.2.1

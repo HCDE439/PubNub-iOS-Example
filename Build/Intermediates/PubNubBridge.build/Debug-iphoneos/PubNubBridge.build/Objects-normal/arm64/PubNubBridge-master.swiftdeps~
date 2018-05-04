@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "755928d947778115af5a8efdad93bd39"
+build_time: [1525407914, 91534000]
+inputs:
+  "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/PubNubExample/ViewController.swift": [1525407913, 0]
+  "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/PubNubExample/AppDelegate.swift": [1525407352, 0]

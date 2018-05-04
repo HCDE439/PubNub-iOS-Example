@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Build/Products/Debug-iphonesimulator/EasyLayout/EasyLayout.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Build/Intermediates/Pods.build/Debug-iphonesimulator/EasyLayout.build/unextended-module.modulemap',
+    }]
+  }]
+}

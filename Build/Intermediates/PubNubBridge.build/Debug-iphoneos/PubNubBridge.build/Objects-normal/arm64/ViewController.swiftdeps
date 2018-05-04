@@ -1,0 +1,626 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "12PubNubExample14ViewControllerC"
+provides-member:
+- ["12PubNubExample14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "client"
+- "viewDidLoad"
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "+"
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "PNConfiguration"
+- !private "PNErrorStatus"
+- "PNMessageResult"
+- "PNObjectEventListener"
+- "PNPresenceEventResult"
+- "PNStatus"
+- !private "PNSubscribeStatus"
+- "PubNub"
+- "StringLiteralType"
+- "UIViewController"
+- !private "UnicodeScalarType"
+- "ViewController"
+- !private "Void"
+- !private "print"
+- !private "||"
+depends-member:
+- !private ["Sa", "last"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "last"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "PNConfiguration"]
+- !private ["s7CVarArgP", "PubNub"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addListener"]
+- !private ["s7CVarArgP", "category"]
+- !private ["s7CVarArgP", "channel"]
+- !private ["s7CVarArgP", "channels"]
+- ["s7CVarArgP", "client"]
+- !private ["s7CVarArgP", "clientWithConfiguration"]
+- !private ["s7CVarArgP", "data"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isError"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "message"]
+- !private ["s7CVarArgP", "operation"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "publish"]
+- !private ["s7CVarArgP", "publishKey"]
+- !private ["s7CVarArgP", "stripMobilePayload"]
+- !private ["s7CVarArgP", "subscribeKey"]
+- !private ["s7CVarArgP", "subscribeToChannels"]
+- !private ["s7CVarArgP", "subscription"]
+- !private ["s7CVarArgP", "timetoken"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "last"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "PNConfiguration"]
+- !private ["s28CustomDebugStringConvertibleP", "PubNub"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addListener"]
+- !private ["s28CustomDebugStringConvertibleP", "category"]
+- !private ["s28CustomDebugStringConvertibleP", "channel"]
+- !private ["s28CustomDebugStringConvertibleP", "channels"]
+- ["s28CustomDebugStringConvertibleP", "client"]
+- !private ["s28CustomDebugStringConvertibleP", "clientWithConfiguration"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isError"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "message"]
+- !private ["s28CustomDebugStringConvertibleP", "operation"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "publish"]
+- !private ["s28CustomDebugStringConvertibleP", "publishKey"]
+- !private ["s28CustomDebugStringConvertibleP", "stripMobilePayload"]
+- !private ["s28CustomDebugStringConvertibleP", "subscribeKey"]
+- !private ["s28CustomDebugStringConvertibleP", "subscribeToChannels"]
+- !private ["s28CustomDebugStringConvertibleP", "subscription"]
+- !private ["s28CustomDebugStringConvertibleP", "timetoken"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s23CustomStringConvertibleP", "PNConfiguration"]
+- !private ["s23CustomStringConvertibleP", "PubNub"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addListener"]
+- !private ["s23CustomStringConvertibleP", "category"]
+- !private ["s23CustomStringConvertibleP", "channel"]
+- !private ["s23CustomStringConvertibleP", "channels"]
+- ["s23CustomStringConvertibleP", "client"]
+- !private ["s23CustomStringConvertibleP", "clientWithConfiguration"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isError"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "message"]
+- !private ["s23CustomStringConvertibleP", "operation"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "publish"]
+- !private ["s23CustomStringConvertibleP", "publishKey"]
+- !private ["s23CustomStringConvertibleP", "stripMobilePayload"]
+- !private ["s23CustomStringConvertibleP", "subscribeKey"]
+- !private ["s23CustomStringConvertibleP", "subscribeToChannels"]
+- !private ["s23CustomStringConvertibleP", "subscription"]
+- !private ["s23CustomStringConvertibleP", "timetoken"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "last"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "last"]
+- !private ["s9EquatableP", "PNAccessDeniedCategory"]
+- !private ["s9EquatableP", "PNConfiguration"]
+- !private ["s9EquatableP", "PNConnectedCategory"]
+- !private ["s9EquatableP", "PNReconnectedCategory"]
+- !private ["s9EquatableP", "PNUnexpectedDisconnectCategory"]
+- !private ["s9EquatableP", "PubNub"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addListener"]
+- !private ["s9EquatableP", "category"]
+- !private ["s9EquatableP", "channel"]
+- !private ["s9EquatableP", "channels"]
+- ["s9EquatableP", "client"]
+- !private ["s9EquatableP", "clientWithConfiguration"]
+- !private ["s9EquatableP", "data"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isError"]
+- !private ["s9EquatableP", "last"]
+- !private ["s9EquatableP", "message"]
+- !private ["s9EquatableP", "operation"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "publish"]
+- !private ["s9EquatableP", "publishKey"]
+- !private ["s9EquatableP", "stripMobilePayload"]
+- !private ["s9EquatableP", "subscribeKey"]
+- !private ["s9EquatableP", "subscribeOperation"]
+- !private ["s9EquatableP", "subscribeToChannels"]
+- !private ["s9EquatableP", "subscription"]
+- !private ["s9EquatableP", "timetoken"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "PNAccessDeniedCategory"]
+- !private ["s8HashableP", "PNConfiguration"]
+- !private ["s8HashableP", "PNConnectedCategory"]
+- !private ["s8HashableP", "PNReconnectedCategory"]
+- !private ["s8HashableP", "PNUnexpectedDisconnectCategory"]
+- !private ["s8HashableP", "PubNub"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addListener"]
+- !private ["s8HashableP", "category"]
+- !private ["s8HashableP", "channel"]
+- !private ["s8HashableP", "channels"]
+- ["s8HashableP", "client"]
+- !private ["s8HashableP", "clientWithConfiguration"]
+- !private ["s8HashableP", "data"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "isError"]
+- !private ["s8HashableP", "message"]
+- !private ["s8HashableP", "operation"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "publish"]
+- !private ["s8HashableP", "publishKey"]
+- !private ["s8HashableP", "stripMobilePayload"]
+- !private ["s8HashableP", "subscribeKey"]
+- !private ["s8HashableP", "subscribeOperation"]
+- !private ["s8HashableP", "subscribeToChannels"]
+- !private ["s8HashableP", "subscription"]
+- !private ["s8HashableP", "timetoken"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "last"]
+- !private ["So8NSCodingP", "PNConfiguration"]
+- !private ["So8NSCodingP", "PubNub"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "client"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "publishKey"]
+- !private ["So8NSCodingP", "subscribeKey"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "PNConfiguration"]
+- !private ["So26NSExtensionRequestHandlingP", "PubNub"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "client"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "publishKey"]
+- !private ["So26NSExtensionRequestHandlingP", "subscribeKey"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "PNConfiguration"]
+- !private ["So8NSObjectC", "PNErrorStatus"]
+- ["So8NSObjectC", "PNMessageResult"]
+- ["So8NSObjectC", "PNPresenceEventResult"]
+- ["So8NSObjectC", "PNStatus"]
+- !private ["So8NSObjectC", "PNSubscribeStatus"]
+- ["So8NSObjectC", "PubNub"]
+- !private ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "addListener"]
+- !private ["So8NSObjectC", "category"]
+- !private ["So8NSObjectC", "channel"]
+- !private ["So8NSObjectC", "channels"]
+- ["So8NSObjectC", "client"]
+- !private ["So8NSObjectC", "clientWithConfiguration"]
+- !private ["So8NSObjectC", "data"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isError"]
+- !private ["So8NSObjectC", "message"]
+- !private ["So8NSObjectC", "operation"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "publish"]
+- ["So8NSObjectC", "publishKey"]
+- !private ["So8NSObjectC", "stripMobilePayload"]
+- ["So8NSObjectC", "subscribeKey"]
+- !private ["So8NSObjectC", "subscribeToChannels"]
+- !private ["So8NSObjectC", "subscription"]
+- !private ["So8NSObjectC", "timetoken"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "PNConfiguration"]
+- !private ["So16NSObjectProtocolP", "PubNub"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "addListener"]
+- !private ["So16NSObjectProtocolP", "category"]
+- !private ["So16NSObjectProtocolP", "channel"]
+- !private ["So16NSObjectProtocolP", "channels"]
+- ["So16NSObjectProtocolP", "client"]
+- !private ["So16NSObjectProtocolP", "clientWithConfiguration"]
+- !private ["So16NSObjectProtocolP", "data"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isError"]
+- !private ["So16NSObjectProtocolP", "message"]
+- !private ["So16NSObjectProtocolP", "operation"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "publish"]
+- !private ["So16NSObjectProtocolP", "publishKey"]
+- !private ["So16NSObjectProtocolP", "stripMobilePayload"]
+- !private ["So16NSObjectProtocolP", "subscribeKey"]
+- !private ["So16NSObjectProtocolP", "subscribeToChannels"]
+- !private ["So16NSObjectProtocolP", "subscription"]
+- !private ["So16NSObjectProtocolP", "timetoken"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["So22PNAcknowledgmentStatusC", "isError"]
+- !private ["So15PNConfigurationC", "init"]
+- !private ["So15PNConfigurationC", "stripMobilePayload"]
+- !private ["So13PNErrorStatusC", "category"]
+- !private ["So13PNErrorStatusC", "isError"]
+- !private ["So13PNMessageDataC", "channel"]
+- !private ["So13PNMessageDataC", "message"]
+- !private ["So13PNMessageDataC", "subscription"]
+- !private ["So13PNMessageDataC", "timetoken"]
+- !private ["So15PNMessageResultC", "data"]
+- !private ["So21PNObjectEventListenerP", "PNConfiguration"]
+- !private ["So21PNObjectEventListenerP", "PubNub"]
+- ["So21PNObjectEventListenerP", ""]
+- ["So21PNObjectEventListenerP", "client"]
+- !private ["So21PNObjectEventListenerP", "print"]
+- !private ["So21PNObjectEventListenerP", "publishKey"]
+- !private ["So21PNObjectEventListenerP", "subscribeKey"]
+- !private ["SC15PNOperationTypeO", "subscribeOperation"]
+- !private ["So15PNPublishStatusC", "isError"]
+- !private ["So8PNResultC", "category"]
+- !private ["So8PNResultC", "data"]
+- !private ["So8PNResultC", "isError"]
+- !private ["So8PNResultC", "operation"]
+- !private ["So13PNServiceDataC", "channel"]
+- !private ["So13PNServiceDataC", "message"]
+- !private ["So13PNServiceDataC", "subscription"]
+- !private ["So13PNServiceDataC", "timetoken"]
+- !private ["So8PNStatusC", "category"]
+- !private ["So8PNStatusC", "isError"]
+- !private ["So8PNStatusC", "operation"]
+- !private ["SC16PNStatusCategoryO", "PNAccessDeniedCategory"]
+- !private ["SC16PNStatusCategoryO", "PNConnectedCategory"]
+- !private ["SC16PNStatusCategoryO", "PNReconnectedCategory"]
+- !private ["SC16PNStatusCategoryO", "PNUnexpectedDisconnectCategory"]
+- !private ["So17PNSubscribeStatusC", "category"]
+- !private ["So16PNSubscriberDataC", "channel"]
+- !private ["So16PNSubscriberDataC", "message"]
+- !private ["So16PNSubscriberDataC", "subscription"]
+- !private ["So16PNSubscriberDataC", "timetoken"]
+- !private ["So6PubNubC", "addListener"]
+- !private ["So6PubNubC", "channels"]
+- !private ["So6PubNubC", "clientWithConfiguration"]
+- !private ["So6PubNubC", "publish"]
+- !private ["So6PubNubC", "subscribeToChannels"]
+- !private ["s22RandomAccessCollectionP", "last"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "last"]
+- !private ["s16RawRepresentableP", "PNAccessDeniedCategory"]
+- !private ["s16RawRepresentableP", "PNConnectedCategory"]
+- !private ["s16RawRepresentableP", "PNReconnectedCategory"]
+- !private ["s16RawRepresentableP", "PNUnexpectedDisconnectCategory"]
+- !private ["s16RawRepresentableP", "subscribeOperation"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "last"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So21UIAppearanceContainerP", "PNConfiguration"]
+- !private ["So21UIAppearanceContainerP", "PubNub"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "client"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "publishKey"]
+- !private ["So21UIAppearanceContainerP", "subscribeKey"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "PNConfiguration"]
+- !private ["So18UIContentContainerP", "PubNub"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "client"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "publishKey"]
+- !private ["So18UIContentContainerP", "subscribeKey"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "PNConfiguration"]
+- !private ["So18UIFocusEnvironmentP", "PubNub"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "client"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "publishKey"]
+- !private ["So18UIFocusEnvironmentP", "subscribeKey"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "PNConfiguration"]
+- !private ["So30UIPasteConfigurationSupportingP", "PubNub"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "client"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "publishKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "subscribeKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "PNConfiguration"]
+- !private ["So11UIResponderC", "PNErrorStatus"]
+- ["So11UIResponderC", "PNMessageResult"]
+- ["So11UIResponderC", "PNPresenceEventResult"]
+- ["So11UIResponderC", "PNStatus"]
+- !private ["So11UIResponderC", "PNSubscribeStatus"]
+- ["So11UIResponderC", "PubNub"]
+- !private ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "client"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "publishKey"]
+- ["So11UIResponderC", "subscribeKey"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "PNConfiguration"]
+- !private ["So30UIResponderStandardEditActionsP", "PubNub"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "client"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "publishKey"]
+- !private ["So30UIResponderStandardEditActionsP", "subscribeKey"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "PNConfiguration"]
+- !private ["So16UIStateRestoringP", "PubNub"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "client"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "publishKey"]
+- !private ["So16UIStateRestoringP", "subscribeKey"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "PNConfiguration"]
+- !private ["So18UITraitEnvironmentP", "PubNub"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "client"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "publishKey"]
+- !private ["So18UITraitEnvironmentP", "subscribeKey"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So16UIViewControllerC", "PNConfiguration"]
+- !private ["So16UIViewControllerC", "PNErrorStatus"]
+- ["So16UIViewControllerC", "PNMessageResult"]
+- ["So16UIViewControllerC", "PNPresenceEventResult"]
+- ["So16UIViewControllerC", "PNStatus"]
+- !private ["So16UIViewControllerC", "PNSubscribeStatus"]
+- ["So16UIViewControllerC", "PubNub"]
+- !private ["So16UIViewControllerC", "Void"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "client"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "publishKey"]
+- ["So16UIViewControllerC", "subscribeKey"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["12PubNubExample14ViewControllerC", "PNConfiguration"]
+- !private ["12PubNubExample14ViewControllerC", "PNErrorStatus"]
+- ["12PubNubExample14ViewControllerC", "PNMessageResult"]
+- ["12PubNubExample14ViewControllerC", "PNPresenceEventResult"]
+- ["12PubNubExample14ViewControllerC", "PNStatus"]
+- !private ["12PubNubExample14ViewControllerC", "PNSubscribeStatus"]
+- ["12PubNubExample14ViewControllerC", "PubNub"]
+- !private ["12PubNubExample14ViewControllerC", "Void"]
+- ["12PubNubExample14ViewControllerC", "client"]
+- ["12PubNubExample14ViewControllerC", "deinit"]
+- ["12PubNubExample14ViewControllerC", "init"]
+- !private ["12PubNubExample14ViewControllerC", "print"]
+- ["12PubNubExample14ViewControllerC", "publishKey"]
+- ["12PubNubExample14ViewControllerC", "subscribeKey"]
+- ["12PubNubExample14ViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "last"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PNConfiguration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PubNub"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addListener"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "category"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "channel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "channels"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "client"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clientWithConfiguration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "message"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "operation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "publish"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "publishKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stripMobilePayload"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscribeKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscribeToChannels"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timetoken"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So22PNAcknowledgmentStatusC"
+- !private "So15PNConfigurationC"
+- !private "So13PNErrorStatusC"
+- !private "So13PNMessageDataC"
+- !private "So15PNMessageResultC"
+- "So21PNObjectEventListenerP"
+- !private "SC15PNOperationTypeO"
+- !private "So15PNPublishStatusC"
+- !private "So8PNResultC"
+- !private "So13PNServiceDataC"
+- !private "So8PNStatusC"
+- !private "SC16PNStatusCategoryO"
+- !private "So17PNSubscribeStatusC"
+- !private "So16PNSubscriberDataC"
+- !private "So6PubNubC"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So16UIViewControllerC"
+- "12PubNubExample14ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAES.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+APNS.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub-umbrella.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNServiceData.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+Subscribe.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+Presence.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+Time.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+Core.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+State.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+Publish.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNClientInformation.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/NSURLSessionConfiguration+PNConfiguration.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNConfiguration.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+ChannelGroup.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNSubscribeAPIBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNSubscribeChannelsOrGroupsAPIBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAPNSAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNUnsubscribeAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNDeleteMessageAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNTimeAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStateAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPublishSizeAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPublishAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStreamAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAPNSModificationAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStateModificationAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStreamModificationAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNUnsubscribeChannelsOrGroupsAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAPNSAuditAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStateAuditAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStreamAuditAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceHereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceChannelHereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceChannelGroupHereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceWhereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNHistoryAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNLLogger.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNObjectEventListener.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNErrorCodes.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNDefines.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStructures.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNSubscriberResults.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNSubscribeStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNClientStateUpdateStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPublishStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNErrorStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAcknowledgmentStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNTimeResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNChannelClientStateResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNChannelGroupClientStateResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNAPNSEnabledChannelsResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNChannelGroupChannelsResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNChannelGroupsResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceGlobalHereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceChannelHereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceChannelGroupHereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNPresenceWhereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PNHistoryResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Headers/PubNub+History.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphoneos/PubNub/PubNub.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "73274726c0c79e0449a5aebf1501f284"

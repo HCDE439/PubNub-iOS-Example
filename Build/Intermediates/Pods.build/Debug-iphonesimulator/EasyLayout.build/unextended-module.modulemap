@@ -1,0 +1,10 @@
+framework module EasyLayout {
+  umbrella header "EasyLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module EasyLayout.__Swift {
+    exclude header "EasyLayout-Swift.h"
+}

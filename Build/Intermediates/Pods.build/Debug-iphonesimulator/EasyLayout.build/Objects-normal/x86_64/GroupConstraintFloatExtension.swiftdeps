@@ -1,0 +1,131 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "|-"
+- "-|"
+provides-nominal:
+provides-member:
+- ["12CoreGraphics7CGFloatV", ""]
+- ["12CoreGraphics7CGFloatV", "|-"]
+- ["12CoreGraphics7CGFloatV", "-|"]
+provides-dynamic-lookup:
+depends-top-level:
+- "-|"
+- "CGFloat"
+- "EasyGroupConstraint"
+- !private "EasyGroupConstraintToken"
+- "|-"
+depends-member:
+- !private ["s19BinaryFloatingPointP", "EasyGroupConstraint"]
+- !private ["s19BinaryFloatingPointP", "EasyGroupConstraintToken"]
+- ["12CoreGraphics7CGFloatV", "-|"]
+- ["12CoreGraphics7CGFloatV", "CGFloat"]
+- ["12CoreGraphics7CGFloatV", "EasyGroupConstraint"]
+- !private ["12CoreGraphics7CGFloatV", "EasyGroupConstraintToken"]
+- ["12CoreGraphics7CGFloatV", "|-"]
+- !private ["s7CVarArgP", "EasyGroupConstraint"]
+- !private ["s7CVarArgP", "EasyGroupConstraintToken"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10ComparableP", "EasyGroupConstraint"]
+- !private ["s10ComparableP", "EasyGroupConstraintToken"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s17CustomReflectableP", "EasyGroupConstraint"]
+- !private ["s17CustomReflectableP", "EasyGroupConstraintToken"]
+- !private ["s23CustomStringConvertibleP", "EasyGroupConstraint"]
+- !private ["s23CustomStringConvertibleP", "EasyGroupConstraintToken"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "EasyGroupConstraint"]
+- !private ["s9DecodableP", "EasyGroupConstraintToken"]
+- !private ["10EasyLayout0A15GroupConstraintC", "init"]
+- !private ["10EasyLayout0A20GroupConstraintTokenV", "init"]
+- !private ["10EasyLayout0A20GroupConstraintTokenV8EdgeTypeO", "leading"]
+- !private ["10EasyLayout0A20GroupConstraintTokenV8EdgeTypeO", "trailing"]
+- !private ["s9EncodableP", "EasyGroupConstraint"]
+- !private ["s9EncodableP", "EasyGroupConstraintToken"]
+- !private ["s9EquatableP", "EasyGroupConstraint"]
+- !private ["s9EquatableP", "EasyGroupConstraintToken"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "leading"]
+- !private ["s9EquatableP", "trailing"]
+- !private ["s25ExpressibleByFloatLiteralP", "EasyGroupConstraint"]
+- !private ["s25ExpressibleByFloatLiteralP", "EasyGroupConstraintToken"]
+- !private ["s27ExpressibleByIntegerLiteralP", "EasyGroupConstraint"]
+- !private ["s27ExpressibleByIntegerLiteralP", "EasyGroupConstraintToken"]
+- !private ["s13FloatingPointP", "EasyGroupConstraint"]
+- !private ["s13FloatingPointP", "EasyGroupConstraintToken"]
+- !private ["s8HashableP", "EasyGroupConstraint"]
+- !private ["s8HashableP", "EasyGroupConstraintToken"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "leading"]
+- !private ["s8HashableP", "trailing"]
+- !private ["So18NSLayoutConstraintC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["s7NumericP", "EasyGroupConstraint"]
+- !private ["s7NumericP", "EasyGroupConstraintToken"]
+- !private ["s13SignedNumericP", "EasyGroupConstraint"]
+- !private ["s13SignedNumericP", "EasyGroupConstraintToken"]
+- !private ["s10StrideableP", "EasyGroupConstraint"]
+- !private ["s10StrideableP", "EasyGroupConstraintToken"]
+- !private ["s15_CVarArgAlignedP", "EasyGroupConstraint"]
+- !private ["s15_CVarArgAlignedP", "EasyGroupConstraintToken"]
+- !private ["s22_CVarArgPassedAsDoubleP", "EasyGroupConstraint"]
+- !private ["s22_CVarArgPassedAsDoubleP", "EasyGroupConstraintToken"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "EasyGroupConstraint"]
+- !private ["s21_ObjectiveCBridgeableP", "EasyGroupConstraintToken"]
+depends-nominal:
+- !private "s19BinaryFloatingPointP"
+- "12CoreGraphics7CGFloatV"
+- !private "s7CVarArgP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "10EasyLayout0A15GroupConstraintC"
+- !private "10EasyLayout0A20GroupConstraintTokenV"
+- !private "10EasyLayout0A20GroupConstraintTokenV8EdgeTypeO"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s13FloatingPointP"
+- !private "s8HashableP"
+- !private "So18NSLayoutConstraintC"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s7NumericP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/Target Support Files/EasyLayout/EasyLayout-umbrella.h"
+- "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Build/Intermediates/Pods.build/Debug-iphonesimulator/EasyLayout.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "e469ff4edf314b0eb3b1df738202dfae"

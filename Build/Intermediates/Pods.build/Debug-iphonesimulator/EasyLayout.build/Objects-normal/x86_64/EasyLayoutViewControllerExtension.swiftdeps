@@ -1,0 +1,230 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "replace"]
+- ["So16UIViewControllerC", "replace"]
+- ["So16UIViewControllerC", "activate"]
+- ["So16UIViewControllerC", "activate"]
+- ["So16UIViewControllerC", "activate"]
+- ["So16UIViewControllerC", "disableTranslatesAutoresizingMask"]
+- ["So16UIViewControllerC", "addSubviews"]
+- ["So16UIViewControllerC", "activate"]
+- ["So16UIViewControllerC", "replace"]
+- ["So16UIViewControllerC", "replace"]
+provides-dynamic-lookup:
+- "activate"
+- "addSubviews"
+- "disableTranslatesAutoresizingMask"
+- "replace"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "EasyLayoutUpdatePriority"
+- "NSLayoutConstraint"
+- "UnsafeMutablePointer"
+- "View"
+- "ViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "activate"]
+- !private ["So15CALayerDelegateP", "addSubviews"]
+- !private ["So15CALayerDelegateP", "replace"]
+- !private ["So15CALayerDelegateP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s7CVarArgP", "activate"]
+- !private ["s7CVarArgP", "addSubviews"]
+- !private ["s7CVarArgP", "replace"]
+- !private ["s7CVarArgP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "activate"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "replace"]
+- !private ["s28CustomDebugStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "activate"]
+- !private ["s23CustomStringConvertibleP", "addSubviews"]
+- !private ["s23CustomStringConvertibleP", "replace"]
+- !private ["s23CustomStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["10EasyLayout0aB14UpdatePriorityO", "eventually"]
+- !private ["10EasyLayout0aB14UpdatePriorityO", "now"]
+- !private ["s9EquatableP", "activate"]
+- !private ["s9EquatableP", "addSubviews"]
+- !private ["s9EquatableP", "eventually"]
+- !private ["s9EquatableP", "now"]
+- !private ["s9EquatableP", "replace"]
+- !private ["s9EquatableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s9EquatableP", "view"]
+- !private ["s8HashableP", "activate"]
+- !private ["s8HashableP", "addSubviews"]
+- !private ["s8HashableP", "eventually"]
+- !private ["s8HashableP", "now"]
+- !private ["s8HashableP", "replace"]
+- !private ["s8HashableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s8HashableP", "view"]
+- !private ["So8NSCodingP", "activate"]
+- !private ["So8NSCodingP", "addSubviews"]
+- !private ["So8NSCodingP", "replace"]
+- !private ["So8NSCodingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "activate"]
+- !private ["So26NSExtensionRequestHandlingP", "replace"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- ["So8NSObjectC", "EasyLayoutUpdatePriority"]
+- ["So8NSObjectC", "NSLayoutConstraint"]
+- ["So8NSObjectC", "UnsafeMutablePointer"]
+- ["So8NSObjectC", "View"]
+- ["So8NSObjectC", "activate"]
+- ["So8NSObjectC", "addSubviews"]
+- ["So8NSObjectC", "disableTranslatesAutoresizingMask"]
+- ["So8NSObjectC", "replace"]
+- !private ["So8NSObjectC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So16NSObjectProtocolP", "activate"]
+- !private ["So16NSObjectProtocolP", "addSubviews"]
+- !private ["So16NSObjectProtocolP", "replace"]
+- !private ["So16NSObjectProtocolP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["s16RawRepresentableP", "eventually"]
+- !private ["s16RawRepresentableP", "now"]
+- !private ["So29UIAccessibilityIdentificationP", "activate"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "replace"]
+- !private ["So29UIAccessibilityIdentificationP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So12UIAppearanceP", "activate"]
+- !private ["So12UIAppearanceP", "addSubviews"]
+- !private ["So12UIAppearanceP", "replace"]
+- !private ["So12UIAppearanceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So21UIAppearanceContainerP", "activate"]
+- !private ["So21UIAppearanceContainerP", "addSubviews"]
+- !private ["So21UIAppearanceContainerP", "replace"]
+- !private ["So21UIAppearanceContainerP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So18UIContentContainerP", "activate"]
+- !private ["So18UIContentContainerP", "replace"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So17UICoordinateSpaceP", "activate"]
+- !private ["So17UICoordinateSpaceP", "addSubviews"]
+- !private ["So17UICoordinateSpaceP", "replace"]
+- !private ["So17UICoordinateSpaceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So13UIDynamicItemP", "activate"]
+- !private ["So13UIDynamicItemP", "addSubviews"]
+- !private ["So13UIDynamicItemP", "replace"]
+- !private ["So13UIDynamicItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UIFocusEnvironmentP", "activate"]
+- !private ["So18UIFocusEnvironmentP", "addSubviews"]
+- !private ["So18UIFocusEnvironmentP", "replace"]
+- !private ["So18UIFocusEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So11UIFocusItemP", "activate"]
+- !private ["So11UIFocusItemP", "addSubviews"]
+- !private ["So11UIFocusItemP", "replace"]
+- !private ["So11UIFocusItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "activate"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "replace"]
+- !private ["So30UIPasteConfigurationSupportingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- ["So11UIResponderC", "EasyLayoutUpdatePriority"]
+- ["So11UIResponderC", "NSLayoutConstraint"]
+- ["So11UIResponderC", "UnsafeMutablePointer"]
+- ["So11UIResponderC", "View"]
+- ["So11UIResponderC", "activate"]
+- ["So11UIResponderC", "addSubviews"]
+- ["So11UIResponderC", "disableTranslatesAutoresizingMask"]
+- ["So11UIResponderC", "replace"]
+- !private ["So11UIResponderC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "activate"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "replace"]
+- !private ["So30UIResponderStandardEditActionsP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So16UIStateRestoringP", "activate"]
+- !private ["So16UIStateRestoringP", "replace"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So18UITraitEnvironmentP", "activate"]
+- !private ["So18UITraitEnvironmentP", "addSubviews"]
+- !private ["So18UITraitEnvironmentP", "replace"]
+- !private ["So18UITraitEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So6UIViewC", "activate"]
+- !private ["So6UIViewC", "addSubviews"]
+- !private ["So6UIViewC", "replace"]
+- !private ["So6UIViewC", "translatesAutoresizingMaskIntoConstraints"]
+- ["So16UIViewControllerC", "EasyLayoutUpdatePriority"]
+- ["So16UIViewControllerC", "NSLayoutConstraint"]
+- ["So16UIViewControllerC", "UnsafeMutablePointer"]
+- ["So16UIViewControllerC", "View"]
+- ["So16UIViewControllerC", "activate"]
+- ["So16UIViewControllerC", "addSubviews"]
+- ["So16UIViewControllerC", "disableTranslatesAutoresizingMask"]
+- ["So16UIViewControllerC", "replace"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "activate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubviews"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "replace"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "activate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "replace"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "10EasyLayout0aB14UpdatePriorityO"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s16RawRepresentableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/Target Support Files/EasyLayout/EasyLayout-umbrella.h"
+- "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Build/Intermediates/Pods.build/Debug-iphonesimulator/EasyLayout.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "12ae001b7fd75f7a24f4daac24def252"

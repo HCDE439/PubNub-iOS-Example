@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "a3a4dca20385d01495fc51ea6cee161a"
+build_time: [1525422355, 84673000]
+inputs:
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/PubNubExample/PubNubCoordinator.swift": !dirty [1525422332, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/PubNubExample/ViewController.swift": !dirty [1525422332, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/PubNubExample/AppDelegate.swift": !dirty [1525422332, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/PubNubExample/Helpers.swift": !dirty [1525422332, 0]

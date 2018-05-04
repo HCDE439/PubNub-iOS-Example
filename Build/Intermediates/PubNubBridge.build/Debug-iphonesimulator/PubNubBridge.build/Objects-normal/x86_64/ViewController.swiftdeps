@@ -1,0 +1,519 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "12PubNubExample14ViewControllerC"
+provides-member:
+- ["12PubNubExample14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMessage"
+- "didTapBuzzButton"
+- "didTapLEDButton"
+- "label"
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- !private "DispatchQueue"
+- "PubNubCoordinator"
+- "PubNubDelegate"
+- "String"
+- !private "StringLiteralType"
+- "UILabel"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "DispatchQueue"]
+- ["s7CVarArgP", "PubNubCoordinator"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "asyncAfter"]
+- !private ["s7CVarArgP", "delegate"]
+- ["s7CVarArgP", "didConnect"]
+- ["s7CVarArgP", "didConnectionFail"]
+- ["s7CVarArgP", "didDisconnect"]
+- ["s7CVarArgP", "didReceiveMessage"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "label"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "pubnub"]
+- !private ["s7CVarArgP", "send"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "now"]
+- !private ["s28CustomDebugStringConvertibleP", "DispatchQueue"]
+- ["s28CustomDebugStringConvertibleP", "PubNubCoordinator"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "asyncAfter"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", "didConnect"]
+- ["s28CustomDebugStringConvertibleP", "didConnectionFail"]
+- ["s28CustomDebugStringConvertibleP", "didDisconnect"]
+- ["s28CustomDebugStringConvertibleP", "didReceiveMessage"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "label"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "pubnub"]
+- !private ["s28CustomDebugStringConvertibleP", "send"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "DispatchQueue"]
+- ["s23CustomStringConvertibleP", "PubNubCoordinator"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "asyncAfter"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- ["s23CustomStringConvertibleP", "didConnect"]
+- ["s23CustomStringConvertibleP", "didConnectionFail"]
+- ["s23CustomStringConvertibleP", "didDisconnect"]
+- ["s23CustomStringConvertibleP", "didReceiveMessage"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "label"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "pubnub"]
+- !private ["s23CustomStringConvertibleP", "send"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s9DecodableP", "init"]
+- !private ["So14DispatchObjectC", "asyncAfter"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So13DispatchQueueC", "asyncAfter"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["8Dispatch0A4TimeV", "now"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "DispatchQueue"]
+- ["s9EquatableP", "PubNubCoordinator"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "asyncAfter"]
+- !private ["s9EquatableP", "delegate"]
+- ["s9EquatableP", "didConnect"]
+- ["s9EquatableP", "didConnectionFail"]
+- ["s9EquatableP", "didDisconnect"]
+- ["s9EquatableP", "didReceiveMessage"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "label"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "now"]
+- !private ["s9EquatableP", "pubnub"]
+- !private ["s9EquatableP", "send"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "DispatchQueue"]
+- ["s8HashableP", "PubNubCoordinator"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "asyncAfter"]
+- !private ["s8HashableP", "delegate"]
+- ["s8HashableP", "didConnect"]
+- ["s8HashableP", "didConnectionFail"]
+- ["s8HashableP", "didDisconnect"]
+- ["s8HashableP", "didReceiveMessage"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "label"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "pubnub"]
+- !private ["s8HashableP", "send"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "DispatchQueue"]
+- ["So8NSCodingP", "PubNubCoordinator"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "didConnect"]
+- ["So8NSCodingP", "didConnectionFail"]
+- ["So8NSCodingP", "didDisconnect"]
+- ["So8NSCodingP", "didReceiveMessage"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "label"]
+- !private ["So8NSCodingP", "pubnub"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "DispatchQueue"]
+- ["So26NSExtensionRequestHandlingP", "PubNubCoordinator"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "didConnect"]
+- ["So26NSExtensionRequestHandlingP", "didConnectionFail"]
+- ["So26NSExtensionRequestHandlingP", "didDisconnect"]
+- ["So26NSExtensionRequestHandlingP", "didReceiveMessage"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "label"]
+- !private ["So26NSExtensionRequestHandlingP", "pubnub"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "DispatchQueue"]
+- ["So8NSObjectC", "PubNubCoordinator"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UILabel"]
+- !private ["So8NSObjectC", "asyncAfter"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "didConnect"]
+- ["So8NSObjectC", "didConnectionFail"]
+- ["So8NSObjectC", "didDisconnect"]
+- ["So8NSObjectC", "didReceiveMessage"]
+- ["So8NSObjectC", "didTapBuzzButton"]
+- ["So8NSObjectC", "didTapLEDButton"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "label"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "pubnub"]
+- !private ["So8NSObjectC", "send"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "DispatchQueue"]
+- ["So16NSObjectProtocolP", "PubNubCoordinator"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "asyncAfter"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- ["So16NSObjectProtocolP", "didConnect"]
+- ["So16NSObjectProtocolP", "didConnectionFail"]
+- ["So16NSObjectProtocolP", "didDisconnect"]
+- ["So16NSObjectProtocolP", "didReceiveMessage"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "label"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "pubnub"]
+- !private ["So16NSObjectProtocolP", "send"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["So9OS_objectC", "asyncAfter"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So21PNObjectEventListenerP", "delegate"]
+- ["So21PNObjectEventListenerP", "init"]
+- !private ["So21PNObjectEventListenerP", "send"]
+- !private ["12PubNubExample0aB11CoordinatorC", "delegate"]
+- ["12PubNubExample0aB11CoordinatorC", "init"]
+- !private ["12PubNubExample0aB11CoordinatorC", "send"]
+- !private ["12PubNubExample0aB8DelegateP", "DispatchQueue"]
+- ["12PubNubExample0aB8DelegateP", "PubNubCoordinator"]
+- ["12PubNubExample0aB8DelegateP", ""]
+- ["12PubNubExample0aB8DelegateP", "didConnect"]
+- ["12PubNubExample0aB8DelegateP", "didConnectionFail"]
+- ["12PubNubExample0aB8DelegateP", "didDisconnect"]
+- ["12PubNubExample0aB8DelegateP", "didReceiveMessage"]
+- !private ["12PubNubExample0aB8DelegateP", "label"]
+- !private ["12PubNubExample0aB8DelegateP", "pubnub"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "DispatchQueue"]
+- ["So21UIAppearanceContainerP", "PubNubCoordinator"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "didConnect"]
+- ["So21UIAppearanceContainerP", "didConnectionFail"]
+- ["So21UIAppearanceContainerP", "didDisconnect"]
+- ["So21UIAppearanceContainerP", "didReceiveMessage"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "label"]
+- !private ["So21UIAppearanceContainerP", "pubnub"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "DispatchQueue"]
+- ["So18UIContentContainerP", "PubNubCoordinator"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "didConnect"]
+- ["So18UIContentContainerP", "didConnectionFail"]
+- ["So18UIContentContainerP", "didDisconnect"]
+- ["So18UIContentContainerP", "didReceiveMessage"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "label"]
+- !private ["So18UIContentContainerP", "pubnub"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "DispatchQueue"]
+- ["So18UIFocusEnvironmentP", "PubNubCoordinator"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "didConnect"]
+- ["So18UIFocusEnvironmentP", "didConnectionFail"]
+- ["So18UIFocusEnvironmentP", "didDisconnect"]
+- ["So18UIFocusEnvironmentP", "didReceiveMessage"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "label"]
+- !private ["So18UIFocusEnvironmentP", "pubnub"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "DispatchQueue"]
+- ["So30UIPasteConfigurationSupportingP", "PubNubCoordinator"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "didConnect"]
+- ["So30UIPasteConfigurationSupportingP", "didConnectionFail"]
+- ["So30UIPasteConfigurationSupportingP", "didDisconnect"]
+- ["So30UIPasteConfigurationSupportingP", "didReceiveMessage"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "label"]
+- !private ["So30UIPasteConfigurationSupportingP", "pubnub"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "DispatchQueue"]
+- ["So11UIResponderC", "PubNubCoordinator"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "didConnect"]
+- ["So11UIResponderC", "didConnectionFail"]
+- ["So11UIResponderC", "didDisconnect"]
+- ["So11UIResponderC", "didReceiveMessage"]
+- ["So11UIResponderC", "didTapBuzzButton"]
+- ["So11UIResponderC", "didTapLEDButton"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "label"]
+- ["So11UIResponderC", "pubnub"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DispatchQueue"]
+- ["So30UIResponderStandardEditActionsP", "PubNubCoordinator"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "didConnect"]
+- ["So30UIResponderStandardEditActionsP", "didConnectionFail"]
+- ["So30UIResponderStandardEditActionsP", "didDisconnect"]
+- ["So30UIResponderStandardEditActionsP", "didReceiveMessage"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "label"]
+- !private ["So30UIResponderStandardEditActionsP", "pubnub"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "DispatchQueue"]
+- ["So16UIStateRestoringP", "PubNubCoordinator"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "didConnect"]
+- ["So16UIStateRestoringP", "didConnectionFail"]
+- ["So16UIStateRestoringP", "didDisconnect"]
+- ["So16UIStateRestoringP", "didReceiveMessage"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "label"]
+- !private ["So16UIStateRestoringP", "pubnub"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "DispatchQueue"]
+- ["So18UITraitEnvironmentP", "PubNubCoordinator"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "didConnect"]
+- ["So18UITraitEnvironmentP", "didConnectionFail"]
+- ["So18UITraitEnvironmentP", "didDisconnect"]
+- ["So18UITraitEnvironmentP", "didReceiveMessage"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "label"]
+- !private ["So18UITraitEnvironmentP", "pubnub"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "DispatchQueue"]
+- ["So16UIViewControllerC", "PubNubCoordinator"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didConnect"]
+- ["So16UIViewControllerC", "didConnectionFail"]
+- ["So16UIViewControllerC", "didDisconnect"]
+- ["So16UIViewControllerC", "didReceiveMessage"]
+- ["So16UIViewControllerC", "didTapBuzzButton"]
+- ["So16UIViewControllerC", "didTapLEDButton"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "label"]
+- ["So16UIViewControllerC", "pubnub"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["12PubNubExample14ViewControllerC", "DispatchQueue"]
+- ["12PubNubExample14ViewControllerC", "PubNubCoordinator"]
+- ["12PubNubExample14ViewControllerC", "String"]
+- ["12PubNubExample14ViewControllerC", "UILabel"]
+- ["12PubNubExample14ViewControllerC", "deinit"]
+- ["12PubNubExample14ViewControllerC", "didConnect"]
+- ["12PubNubExample14ViewControllerC", "didConnectionFail"]
+- ["12PubNubExample14ViewControllerC", "didDisconnect"]
+- ["12PubNubExample14ViewControllerC", "didReceiveMessage"]
+- ["12PubNubExample14ViewControllerC", "didTapBuzzButton"]
+- ["12PubNubExample14ViewControllerC", "didTapLEDButton"]
+- ["12PubNubExample14ViewControllerC", "init"]
+- ["12PubNubExample14ViewControllerC", "label"]
+- ["12PubNubExample14ViewControllerC", "pubnub"]
+- ["12PubNubExample14ViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DispatchQueue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PubNubCoordinator"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "asyncAfter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "didConnect"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "didConnectionFail"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "didDisconnect"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMessage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "label"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pubnub"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "send"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- !private "8Dispatch0A4TimeV"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So9OS_objectC"
+- "So21PNObjectEventListenerP"
+- "12PubNubExample0aB11CoordinatorC"
+- "12PubNubExample0aB8DelegateP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "12PubNubExample14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAES.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+APNS.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub-umbrella.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNServiceData.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+Subscribe.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+Presence.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+Time.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+Core.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+State.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+Publish.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNClientInformation.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/NSURLSessionConfiguration+PNConfiguration.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNConfiguration.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+ChannelGroup.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNSubscribeAPIBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNSubscribeChannelsOrGroupsAPIBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAPNSAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNUnsubscribeAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNDeleteMessageAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNTimeAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStateAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPublishSizeAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPublishAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStreamAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAPNSModificationAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStateModificationAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStreamModificationAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNUnsubscribeChannelsOrGroupsAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAPNSAuditAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStateAuditAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStreamAuditAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceHereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceChannelHereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceChannelGroupHereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceWhereNowAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNHistoryAPICallBuilder.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNLLogger.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNObjectEventListener.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNErrorCodes.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNDefines.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStructures.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNSubscriberResults.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNSubscribeStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNClientStateUpdateStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPublishStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNErrorStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAcknowledgmentStatus.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNTimeResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNChannelClientStateResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNChannelGroupClientStateResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNAPNSEnabledChannelsResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNChannelGroupChannelsResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNChannelGroupsResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceGlobalHereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceChannelHereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceChannelGroupHereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNPresenceWhereNowResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PNHistoryResult.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Headers/PubNub+History.h"
+- "/Users/blaketsuzaki/Development/PubNubExampleSample-iOS/Build/Products/Debug-iphonesimulator/PubNub/PubNub.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "d0d98e8aeac5197246a2da813cf4e5f8"

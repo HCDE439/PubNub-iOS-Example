@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "f779db5fcfa09179d1f3202144e8558d"
+build_time: [1525422348, 787520000]
+inputs:
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Core Layout/EasyLayout.swift": [1525407890, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Core Layout/EasyLayoutConstraintExtension.swift": [1525407890, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Core Layout/EasyLayoutViewControllerExtension.swift": [1525407890, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Core Layout/EasyLayoutViewExtension.swift": [1525407890, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Group Constraint/GroupConstraint.swift": [1525407890, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Group Constraint/GroupConstraintFloatExtension.swift": [1525407890, 0]
+  "/Users/blaketsuzaki/Development/PubNubBridgeSample-iOS/Pods/EasyLayout/Framework/Group Constraint/GroupConstraintViewExtension.swift": [1525407890, 0]

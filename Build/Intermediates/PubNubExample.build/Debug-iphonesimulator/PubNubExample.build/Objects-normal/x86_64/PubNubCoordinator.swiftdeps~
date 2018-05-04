@@ -1,0 +1,314 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PubNubDelegate"
+- "PubNubCoordinator"
+provides-nominal:
+- "13PubNubExample0aB8DelegateP"
+- "13PubNubExample0aB11CoordinatorC"
+provides-member:
+- ["13PubNubExample0aB8DelegateP", ""]
+- ["13PubNubExample0aB11CoordinatorC", ""]
+provides-dynamic-lookup:
+- "didConnect"
+- "didConnectionFail"
+- "didDisconnect"
+- "didReceiveMessage"
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "/"
+- !private "=="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "Date"
+- "NSObject"
+- !private "PNConfiguration"
+- !private "PNErrorStatus"
+- "PNMessageResult"
+- "PNObjectEventListener"
+- "PNPresenceEventResult"
+- "PNStatus"
+- !private "PNSubscribeStatus"
+- "PubNub"
+- "PubNubCoordinator"
+- "PubNubDelegate"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- !private "TimeInterval"
+- !private "print"
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "Date"]
+- !private ["s7CVarArgP", "PNConfiguration"]
+- !private ["s7CVarArgP", "PNErrorStatus"]
+- ["s7CVarArgP", "PNMessageResult"]
+- ["s7CVarArgP", "PNPresenceEventResult"]
+- ["s7CVarArgP", "PNStatus"]
+- !private ["s7CVarArgP", "PNSubscribeStatus"]
+- ["s7CVarArgP", "PubNub"]
+- !private ["s7CVarArgP", "TimeInterval"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "channel"]
+- !private ["s7CVarArgP", "client"]
+- !private ["s7CVarArgP", "delegate"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "publishKey"]
+- !private ["s7CVarArgP", "send"]
+- !private ["s7CVarArgP", "subscribeKey"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "PNConfiguration"]
+- !private ["s28CustomDebugStringConvertibleP", "PNErrorStatus"]
+- ["s28CustomDebugStringConvertibleP", "PNMessageResult"]
+- ["s28CustomDebugStringConvertibleP", "PNPresenceEventResult"]
+- ["s28CustomDebugStringConvertibleP", "PNStatus"]
+- !private ["s28CustomDebugStringConvertibleP", "PNSubscribeStatus"]
+- ["s28CustomDebugStringConvertibleP", "PubNub"]
+- !private ["s28CustomDebugStringConvertibleP", "TimeInterval"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "channel"]
+- !private ["s28CustomDebugStringConvertibleP", "client"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "publishKey"]
+- !private ["s28CustomDebugStringConvertibleP", "send"]
+- !private ["s28CustomDebugStringConvertibleP", "subscribeKey"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "PNConfiguration"]
+- !private ["s23CustomStringConvertibleP", "PNErrorStatus"]
+- ["s23CustomStringConvertibleP", "PNMessageResult"]
+- ["s23CustomStringConvertibleP", "PNPresenceEventResult"]
+- ["s23CustomStringConvertibleP", "PNStatus"]
+- !private ["s23CustomStringConvertibleP", "PNSubscribeStatus"]
+- ["s23CustomStringConvertibleP", "PubNub"]
+- !private ["s23CustomStringConvertibleP", "TimeInterval"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "channel"]
+- !private ["s23CustomStringConvertibleP", "client"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "publishKey"]
+- !private ["s23CustomStringConvertibleP", "send"]
+- !private ["s23CustomStringConvertibleP", "subscribeKey"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "Date"]
+- !private ["s9EquatableP", "PNConfiguration"]
+- !private ["s9EquatableP", "PNErrorStatus"]
+- ["s9EquatableP", "PNMessageResult"]
+- ["s9EquatableP", "PNPresenceEventResult"]
+- ["s9EquatableP", "PNStatus"]
+- !private ["s9EquatableP", "PNSubscribeStatus"]
+- ["s9EquatableP", "PubNub"]
+- !private ["s9EquatableP", "TimeInterval"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "channel"]
+- !private ["s9EquatableP", "client"]
+- !private ["s9EquatableP", "delegate"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "publishKey"]
+- !private ["s9EquatableP", "send"]
+- !private ["s9EquatableP", "subscribeKey"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "Date"]
+- !private ["s8HashableP", "PNConfiguration"]
+- !private ["s8HashableP", "PNErrorStatus"]
+- ["s8HashableP", "PNMessageResult"]
+- ["s8HashableP", "PNPresenceEventResult"]
+- ["s8HashableP", "PNStatus"]
+- !private ["s8HashableP", "PNSubscribeStatus"]
+- ["s8HashableP", "PubNub"]
+- !private ["s8HashableP", "TimeInterval"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "channel"]
+- !private ["s8HashableP", "client"]
+- !private ["s8HashableP", "delegate"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "publishKey"]
+- !private ["s8HashableP", "send"]
+- !private ["s8HashableP", "subscribeKey"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSObjectC", "Date"]
+- !private ["So8NSObjectC", "PNConfiguration"]
+- !private ["So8NSObjectC", "PNErrorStatus"]
+- ["So8NSObjectC", "PNMessageResult"]
+- ["So8NSObjectC", "PNPresenceEventResult"]
+- ["So8NSObjectC", "PNStatus"]
+- !private ["So8NSObjectC", "PNSubscribeStatus"]
+- ["So8NSObjectC", "PubNub"]
+- ["So8NSObjectC", "PubNubDelegate"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "channel"]
+- !private ["So8NSObjectC", "client"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "publishKey"]
+- ["So8NSObjectC", "send"]
+- ["So8NSObjectC", "subscribeKey"]
+- !private ["So16NSObjectProtocolP", "Date"]
+- !private ["So16NSObjectProtocolP", "PNConfiguration"]
+- !private ["So16NSObjectProtocolP", "PNErrorStatus"]
+- ["So16NSObjectProtocolP", "PNMessageResult"]
+- ["So16NSObjectProtocolP", "PNPresenceEventResult"]
+- ["So16NSObjectProtocolP", "PNStatus"]
+- !private ["So16NSObjectProtocolP", "PNSubscribeStatus"]
+- ["So16NSObjectProtocolP", "PubNub"]
+- !private ["So16NSObjectProtocolP", "TimeInterval"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "channel"]
+- !private ["So16NSObjectProtocolP", "client"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "publishKey"]
+- !private ["So16NSObjectProtocolP", "send"]
+- !private ["So16NSObjectProtocolP", "subscribeKey"]
+- !private ["13PubNubExample0aB11CoordinatorC", "Date"]
+- !private ["13PubNubExample0aB11CoordinatorC", "PNConfiguration"]
+- !private ["13PubNubExample0aB11CoordinatorC", "PNErrorStatus"]
+- ["13PubNubExample0aB11CoordinatorC", "PNMessageResult"]
+- ["13PubNubExample0aB11CoordinatorC", "PNPresenceEventResult"]
+- ["13PubNubExample0aB11CoordinatorC", "PNStatus"]
+- !private ["13PubNubExample0aB11CoordinatorC", "PNSubscribeStatus"]
+- ["13PubNubExample0aB11CoordinatorC", "PubNub"]
+- ["13PubNubExample0aB11CoordinatorC", "PubNubDelegate"]
+- ["13PubNubExample0aB11CoordinatorC", "String"]
+- !private ["13PubNubExample0aB11CoordinatorC", "TimeInterval"]
+- !private ["13PubNubExample0aB11CoordinatorC", "channel"]
+- !private ["13PubNubExample0aB11CoordinatorC", "client"]
+- ["13PubNubExample0aB11CoordinatorC", "deinit"]
+- ["13PubNubExample0aB11CoordinatorC", "delegate"]
+- ["13PubNubExample0aB11CoordinatorC", "init"]
+- !private ["13PubNubExample0aB11CoordinatorC", "print"]
+- !private ["13PubNubExample0aB11CoordinatorC", "publishKey"]
+- ["13PubNubExample0aB11CoordinatorC", "send"]
+- !private ["13PubNubExample0aB11CoordinatorC", "subscribeKey"]
+- ["13PubNubExample0aB8DelegateP", "String"]
+- ["13PubNubExample0aB8DelegateP", "didConnect"]
+- ["13PubNubExample0aB8DelegateP", "didConnectionFail"]
+- ["13PubNubExample0aB8DelegateP", "didDisconnect"]
+- ["13PubNubExample0aB8DelegateP", "didReceiveMessage"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PNConfiguration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PNErrorStatus"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PNMessageResult"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PNPresenceEventResult"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PNStatus"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PNSubscribeStatus"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PubNub"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TimeInterval"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "channel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "client"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "publishKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "send"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscribeKey"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "13PubNubExample0aB11CoordinatorC"
+- "13PubNubExample0aB8DelegateP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "eeaf48cb35039536e346feace4bf0ae5"
