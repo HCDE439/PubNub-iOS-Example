@@ -9,3 +9,4 @@ A simple iOS app to demonstrate the PubNub Arduino Bridge
 
 ## Notes
 - Some very basic understanding of Swift constructs is necessary - look through the example and ask me if you have any questions
+- Most of the work is handled by `PubNubCoordinator` - feel free to copy the `.swift` file into your own project and implement the delegate functions
